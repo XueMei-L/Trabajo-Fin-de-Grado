@@ -1,2 +1,15 @@
-# Trabajo-Fin-de-Grado
-Desarrllo de proyecto de Trabajo Fin de Grado
+------------------------TRABAJO FIN DE GRADO------------------------
+
+GRADO EN INGENIERÍA INFORMÁTICA
+
+CURSO ACADÉMICO 2023-2024
+
+CONVOCATORIA JUNIO
+
+TÍTULO: DATA SCIENCE EN SECTOR HOTELERO
+
+AUTOR: XUEMEI LIN
+
+TUTOR: SERGIO DÍAZ GONZÁLEZ
+
+------------------------TRABAJO FIN DE GRADO------------------------
